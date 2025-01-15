@@ -1,0 +1,11 @@
+{
+      "name": "bookkeeping-landing-page",
+      "version": "1.0.0",
+      "description": "Landing page for a bookkeeping website",
+      "scripts": {
+        "dev": "vite"
+      },
+      "devDependencies": {
+        "vite": "^4.5.2"
+      }
+    }
